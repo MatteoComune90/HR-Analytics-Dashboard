@@ -58,11 +58,9 @@ A horizontal bar chart showing that employees with a Life Sciences background re
 
 **5. Attrition Rate by Gender and Age Group**
 
-Donut charts visualizing how attrition differs between genders across age categories:
-
-25–34 age group shows the highest attrition overall.
-
-Males tend to have slightly higher attrition rates in most age groups.
+- Donut charts visualizing how attrition differs between genders across age categories:
+- 25–34 age group shows the highest attrition overall.
+- Males tend to have slightly higher attrition rates in most age groups.
 
 
 <img width="395" height="104" alt="image" src="https://github.com/user-attachments/assets/4741ba56-3bdb-4642-81e7-9c205910291b" />
