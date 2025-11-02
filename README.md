@@ -25,6 +25,7 @@ This interactive Power BI dashboard provides an analytical overview of employee 
 
 
 🧩 **Main Insights**
+
 **1. Attrition Split by Department**
 
 A pie chart showing that the R&D department has the highest attrition (56%), followed by Sales (39%), and HR (5%).
